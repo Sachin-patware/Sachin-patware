@@ -29,9 +29,6 @@ I'm a developer with a passion for creating efficient, scalable solutions. I lov
 - Full-stack web applications
 - Innovative tech initiatives
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-patware&show_icons=true&theme=radical)
-
 ## 🤝 Connect With Me
 - 📧 Email: [sachinpatware10@gmail.com](sachinpatware10@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sachin-patware](https://linkedin.com/in/sachin-patware)
