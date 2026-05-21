@@ -28,7 +28,7 @@ A collection of projects showcasing my skills in Full-Stack Development, AI, and
 ### 🩺 [AyurWell](https://github.com/Sachin-patware/ayurwell) | [Live Demo](https://ayurwell2-o.vercel.app/)
 AI-powered healthcare platform for generating personalized Ayurvedic diet plans, managing patient records and appointments, and delivering smart health recommendations through an intuitive interface.
 
-### 📚 [Teacher Feedback System](https://github.com/Sachin-patware/Anonymous_feedback) | [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
+### 📚 [Teacher Feedback System](https://github.com/Sachin-patware/Teacher_Feedback_System) | [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
 Comprehensive feedback management system built with Django and Next.js for collecting, managing, and analyzing student feedback for teachers efficiently.
 
 ### 🎥 [Zoom RTC](https://github.com/Sachin-patware/zoom-RTC) | [Live Demo](https://zoom-rtc.vercel.app/login)
