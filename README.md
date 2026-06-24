@@ -28,11 +28,8 @@ A collection of projects showcasing my skills in Full-Stack Development, AI, and
 ### 🩺 [AyurWell](https://github.com/Sachin-patware/ayurwell) | [Live Demo](https://ayurwell2-o.vercel.app/)
 AI-powered healthcare platform for generating personalized Ayurvedic diet plans, managing patient records and appointments, and delivering smart health recommendations through an intuitive interface.
 
-### ### 🧠 AlgoQuest | Source Code: :contentReference[oaicite:0]{index=0} | Live Demo: :contentReference[oaicite:1]{index=1}
-
-AI-powered DSA learning platform that combines algorithm visualization, intelligent revision scheduling, and gamified learning to help students master Data Structures and Algorithms effectively. Features include AI-driven hints, execution tracing, confidence-based spaced repetition (SM-2), XP and badge systems, revision sessions, and personalized learning analytics through an interactive coding environment.
-
-AI-powered DSA learning platform that combines algorithm visualization, intelligent revision scheduling, and gamified learning to help students master Data Structures and Algorithms effectively. Features include AI-driven hints, execution tracing, confidence-based spaced repetition (SM-2), XP and badge systems, revision sessions, and personalized learning analytics through an interactive coding environment.
+### ### 🧠[AlgoQuest](https://github.com/Sachin-patware/AlgoQuest) | [Live Demo](https://algoquest1.lovable.app/)
+AI-powered DSA learning platform that helps students master algorithms through interactive code visualization, AI-assisted tutoring, intelligent revision scheduling, gamification, and personalized learning analytics.
 
 ### 📚 [Teacher Feedback System](https://github.com/Sachin-patware/Teacher_Feedback_System) | [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
 Comprehensive feedback management system built with Django and Next.js for collecting, managing, and analyzing student feedback for teachers efficiently.
