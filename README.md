@@ -34,7 +34,7 @@ AI-powered DSA learning platform that helps students master algorithms through i
 ### 📚 [Teacher Feedback System](https://github.com/Sachin-patware/Teacher_Feedback_System) | [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
 Comprehensive feedback management system built with Django and Next.js for collecting, managing, and analyzing student feedback for teachers efficiently.
 
-### 🎥 [Zoom RTC](https://github.com/Sachin-patware/zoom-RTC) | [Live Demo](https://zoom-rtc.vercel.app/login)
+### 🎥 [SyncMeet](https://github.com/Sachin-patware/zoom-RTC) | [Live Demo](https://zoom-rtc.vercel.app/login)
 Real-time communication platform enabling video meetings and live interactions using RTC technologies.
 
 ### 🏠 [Airbnb Project](https://github.com/Sachin-patware/airbnb_project) | [Live Demo](https://triphaven-renting-app.netlify.app/)
