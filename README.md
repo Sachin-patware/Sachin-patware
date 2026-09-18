@@ -25,7 +25,7 @@ I'm a developer with a passion for creating efficient, scalable solutions. I lov
 
 A collection of projects showcasing my skills in Full-Stack Development, AI, and building practical applications.
 
-### 🩺 [AyurWell](https://github.com/Sachin-patware/ayurwell) | [Live Demo](https://ayurwell2-o.vercel.app/)
+### 🩺 [AyurWell](https://github.com/Sachin-patware/ayurwell2.o) | [Live Demo](https://ayurwell2-o.vercel.app/)
 AI-powered healthcare platform for generating personalized Ayurvedic diet plans, managing patient records and appointments, and delivering smart health recommendations through an intuitive interface.
 
 ### 🧠[AlgoQuest](https://github.com/Sachin-patware/AlgoQuest) | [Live Demo](https://algoquest1.lovable.app/)
