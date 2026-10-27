@@ -93,8 +93,6 @@ Always eager to **learn, collaborate, and grow** as an engineer. ⚡
 
 <img src="https://streak-stats.demolab.com?user=Sachin-patware&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sachin-patware&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph" width="100%" />
-
 </div>
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
@@ -169,16 +167,6 @@ Responsive **music streaming web app** inspired by Spotify, with interactive pla
 
 </div>
 
-<!-- ═══════════════════ LEARNING / COLLAB ═══════════════════ -->
-## 🌱 Currently Learning
-
-<div align="center">
-
-![System Design](https://img.shields.io/badge/System%20Design-Advanced%20Patterns-6366f1?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-Architecture%20%26%20DevOps-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-Fundamentals-f97316?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
 
 ## 👯 Looking to Collaborate On
 
@@ -186,14 +174,6 @@ Responsive **music streaming web app** inspired by Spotify, with interactive pla
 - 🧩 **Full-stack web applications**
 - 💡 **Innovative tech initiatives**
 
-<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sachin-patware&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="trophies" />
-
-</div>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 ## 🤝 Connect With Me
