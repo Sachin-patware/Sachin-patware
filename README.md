@@ -195,7 +195,7 @@ Responsive **music streaming web app** inspired by Spotify, with interactive pla
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Feel+free+to+reach+out+and+let's+build+something+amazing+together!+%F0%9F%9A%80" alt="footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Reach+out+and+let's+build+something+amazing+together!+%F0%9F%9A%80" alt="footer typing" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" />
 
