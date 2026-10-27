@@ -79,7 +79,7 @@ Always eager to **learn, collaborate, and grow** as an engineer. ⚡
 
 **Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,vercel,postman&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,vscode,docker,postman&theme=dark" alt="tools" />
 
 </div>
 
@@ -115,7 +115,7 @@ AI-powered healthcare platform that generates personalized **Ayurvedic diet plan
 
 ### 🧠 AlgoQuest
 AI-powered **DSA learning platform** with interactive code visualization, AI tutoring, smart revision scheduling, gamification, and personalized analytics.
-
+ 
 [![Live](https://img.shields.io/badge/Live-Demo-22c55e?style=flat-square&logo=lovable&logoColor=white)](https://algoquest1.lovable.app/)
 
 </td>
