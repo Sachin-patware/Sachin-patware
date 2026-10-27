@@ -35,10 +35,10 @@ I'm a developer with a passion for creating efficient, scalable solutions. I lov
 ### 🩺 [AyurWell](https://github.com/Sachin-patware/ayurwell2.o) · [Live Demo](https://ayurwell2-o.vercel.app/)
 AI-powered healthcare platform for generating personalized Ayurvedic diet plans, managing patient records and appointments, and delivering smart health recommendations through an intuitive interface.
 
-### 🧠 [AlgoQuest](https://github.com/Sachin-patware/AlgoQuest) · [Live Demo](https://algoquest1.lovable.app/)
+### 🧠 AlgoQuest · [Live Demo](https://algoquest1.lovable.app/)
 AI-powered DSA learning platform that helps students master algorithms through interactive code visualization, AI-assisted tutoring, intelligent revision scheduling, gamification, and personalized learning analytics.
 
-### 📚 [Teacher Feedback System](https://github.com/Sachin-patware/Teacher_Feedback_System) · [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
+### 📚 Teacher Feedback System · [Live Demo](https://anonymous-feedback-i46i.vercel.app/)
 Comprehensive feedback management system built with Django and Next.js for collecting, managing, and analyzing student feedback for teachers efficiently.
 
 ### 🎥 [SyncMeet](https://github.com/Sachin-patware/zoom-RTC) · [Live Demo](https://syncmeet-web.vercel.app/)
